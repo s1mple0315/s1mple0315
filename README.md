@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shohrat</h1>
 <h3 align="center">A passionate frontend developer from Turkmenistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s1mple0315&label=Profile%20views&color=0e75b6&style=flat" alt="s1mple0315" /> </p>
-
 - 📫 How to reach me **Sohrat.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
